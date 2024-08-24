@@ -1,11 +1,10 @@
 //base by DGXeon (Xeon Bot Inc.)
-//YouTube: @prexzyvilla
-//Instagram: prexzy.ay
-//Telegram: t.me/prexzyvilla_tech
-//GitHub: @Prexzybooster
-//WhatsApp: +2349159895444
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Prexzyvilla
-
+//YouTube: @BERA_TECH
+//Instagram: BERA_TECH
+//Telegram: t.me/Alphatrex
+//GitHub: @berabotsmd
+//WhatsApp: +254743982206
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@BERA_TECH
 const {
    spawn
 } = require('child_process')
