@@ -914,7 +914,7 @@ senddocu(buffer)
                                 showAdAttribution: true,
                                 title: 'Broadcast By Owner',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/c02035e9c30f7b6da1b29.jpg',
+                                thumbnailUrl: 'https://i.ibb.co/4jBhn13/Socialthumb.jpg',
                                 sourceUrl: global.link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -1222,7 +1222,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${latensi.toFixed(4)} Second`,
-                            thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+                            thumbnailUrl: 'https://i.ibb.co/4jBhn13/Socialthumb.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1244,7 +1244,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+                            thumbnailUrl: 'https://i.ibb.co/4jBhn13/Socialthumb.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1264,7 +1264,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `FORGET DONATE`,
-                            thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+                            thumbnailUrl: 'https://i.ibb.co/4jBhn13/Socialthumb.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1283,8 +1283,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `SCRIPT OF ${botname} is on YouTube @prexzyvilla`,
-                            thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+                            body: `SCRIPT OF ${botname} is on YouTube @BERA_TECH`,
+                            thumbnailUrl: 'https://i.ibb.co/4jBhn13/Socialthumb.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1614,7 +1614,7 @@ replygcxeon(`Number ${bnnd} Has Become An Owner!!!`)
 break
 case 'delowner':
                 if (!isCreator) return replygcxeon(mess.owner)
-if (!args[0]) return replygcxeon(`Use ${prefix+command} nomor\nExample ${prefix+command} 2349159895444`)
+if (!args[0]) return replygcxeon(`Use ${prefix+command} nomor\nExample ${prefix+command} 254743982206`)
 ya = q.split("|")[0].replace(/[^0-9]/g, '')
 unp = owner.indexOf(ya)
 owner.splice(unp, 1)
@@ -2070,11 +2070,11 @@ break
 //bug cases
 case "xandroid": {
   if (!isPremium) return replygcxeon(mess.prem)
-  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx,5`) 
+  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxxx,5`) 
   let number = text.split(',')[0];
   let amount = text.split(',')[1] * 5;
   if (!number || !amount) {
-    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx,5`) 
+    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxxx,5`) 
   }
   if (isNaN(parseInt(amount))) {
     return replygcxeon("Amount must be a number");
@@ -2083,7 +2083,7 @@ case "xandroid": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349159895444") {
+  if (cleanedNumber == "254743982206") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2102,11 +2102,11 @@ case "xandroid": {
 break;
 case "xios": {
   if (!isPremium) return replygcxeon(mess.prem)
-  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx,5`) 
+  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxxx,5`) 
   let number = text.split(',')[0];
   let amount = text.split(',')[1] * 5;
   if (!number || !amount) {
-    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx,5`) 
+    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxxx,5`) 
   }
   if (isNaN(parseInt(amount))) {
     return replygcxeon("Amount must be a number");
@@ -2115,7 +2115,7 @@ case "xios": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349159895444") {
+  if (cleanedNumber == "254743982206") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2198,11 +2198,11 @@ case "xios2":
   break;
   case "systemuicrash": {
   if (!isPremium) return replygcxeon(mess.prem)
-  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx,5`) 
+  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxxx,5`) 
   let number = text.split(',')[0];
   let amount = text.split(',')[1] * 5;
   if (!number || !amount) {
-    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx,5`) 
+    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxxx,5`) 
   }
   if (isNaN(parseInt(amount))) {
     return replygcxeon("Amount must be a number");
@@ -2211,7 +2211,7 @@ case "xios2":
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349159895444") {
+  if (cleanedNumber == "254743982206") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2230,11 +2230,11 @@ case "xios2":
 break;
 case "xsysui": {
   if (!isPremium) return replygcxeon(mess.prem)
-  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx,5`) 
+  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxxx,5`) 
   let number = text.split(',')[0];
   let amount = text.split(',')[1] * 5;
   if (!number || !amount) {
-    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx,5`) 
+    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxxx,5`) 
   }
   if (isNaN(parseInt(amount))) {
     return replygcxeon("Amount must be a number");
@@ -2243,7 +2243,7 @@ case "xsysui": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349159895444") {
+  if (cleanedNumber == "254743982206") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2273,7 +2273,7 @@ break
             case 'alive':
             case '?':
             case 'allmenu':
-                let xeonmenuoh = `╭═══ PREXZY-𝙱𝚄𝙶-𝙱𝙾𝚃 ═══⊷
+                let xeonmenuoh = `╭═══ ALPHA-BUG-BOT═══⊷
 ┃❃╭──────────────
 ┃❃│ Prefix : [ ]
 ┃❃│ User :  ${pushname}
@@ -2304,7 +2304,7 @@ break
 ╰═════════════════⊷
 
 ╭═══ 𝙾𝚆𝙽𝙴𝚁  𝙼𝙴𝙽𝙐 🔐 ═══⊷ 
-┃ 🩵 ɢᴇᴛsᴇssɪᴏɴ
+┃ ❤️ ɢᴇᴛsᴇssɪᴏɴ
 ┃ 🩵 ᴅᴇʟᴇᴛᴇssɪᴏɴ
 ┃ 🩵 ᴘᴘ
 ┃ 🩵 ᴊᴏɪɴ
@@ -2401,7 +2401,7 @@ break
 ┃ 🩵 sᴏᴜɴᴅ1 - sᴏᴜɴᴅ161
 ╰═════════════════⊷
 
-> Precious Ayomide ©`
+> BRUCE BERA ©`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
@@ -2409,7 +2409,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+                                thumbnailUrl: 'https://i.ibb.co/4jBhn13/Socialthumb.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2427,7 +2427,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+      thumbnailUrl: 'https://i.ibb.co/4jBhn13/Socialthumb.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
