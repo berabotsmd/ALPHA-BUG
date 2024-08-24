@@ -36,13 +36,12 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
 
 ### DEPLOYMENT ON TERMUX
 
-**Go to your termux and input this commands**
-
-## TERMUX DEPLOYMENT 
+**Go to your termux and input this commands** 
+____________________________________________
+termux-setup-storage
 
 atp update
    
-
 apt upgrade
 
 pkg update && pkg upgrade
@@ -60,8 +59,6 @@ pkg install wget
 pkg install imagemagick
 
 pkg install yarn
-
-termux-setup-storage
 
 git clone https://github.com/berabotsmd/ALPHA-BUG 
 
