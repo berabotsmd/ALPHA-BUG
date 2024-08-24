@@ -1,5 +1,5 @@
 {
-    "name": "PrexzyBug-Bot",
+    "name": "ALPHA-BUG",
     "version": "6.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Prexzyvilla",
+    "author": "BRUCE BERA",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.5",
