@@ -21,7 +21,7 @@ global.themeemoji = '🪀'
 global.wm = "🄰🄻🄿🄷🄰-🄱🅄🄶."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
+global.link = 'https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
