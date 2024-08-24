@@ -1,139 +1,105 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐓𝐄𝐒𝐋𝐀" alt="Typing SVG" /></a>
-
+<h1 align="center"> ALPHA-BUG </h1>
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
-    <img alt="wasi" height="400" src="https://telegra.ph/file/95d912545ccc1f9022741.jpg">
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <h1 align="center">𝐓𝐄𝐒𝐋𝐀</h1>
-  </a>
-    <div align="center">
-  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
-</div>
- 
-</p>
-<p align="center">
-<a href="https://github.com/betingrich"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
-<p/>
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-<a href="https://github.com/betingrich?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/betingrich?label=Followers&style=social"></a>
-<a href="https://github.com/betingrich/Lamborghini/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/betingrich/Lamborghini?&style=social"></a>
-<a href="https://github.com/betingrich/Lamborghini/network/members"><img title="Fork" src="https://img.shields.io/github/forks/betingrich/Lamborghini?style=social"></a>
-<a href="https://github.com/betingrich/Lamborghini/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/betingrich/Lamborghini?label=Watching&style=social"></a>
-</p>></a>                     
-
-   <h1 align="center"                  
-
-
-
+  
 ***
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;ALPHA-BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+BRUCE+BERA;RELEASED+05.08.24" alt="Typing SVG" /></a>
+  </p>
 
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</a></p>
-- <a href="https://bugatti-session.onrender.com"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
-
-
-- <a href="https://joelsession1-4a8c04ad2935.herokuapp.com/pair"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/GET SESSION OPT 2-h?color=red&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-</p>
-
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/betingrich/Tesla&template=https://github.com/betingrich/Tesla"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
-
-
-
-- <a href="https://toystack.ai/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON TOYSTACK-h?color=orange&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
-
-
-
-- <a href="https://www.clever-cloud.com/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON CLEVER-h?color=black&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
-
-</p>
-
-- <a href="https://render.com"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=grey&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
-
-</p>
-
-- <a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/RUN ON UPTIME-h?color=blue&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
-
-</p>
-
-- <a href="https://github.com/betingrich/Lamborghini"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</p>
-   
-##
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Join my channel for updates
-<a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <p align="center">  
+  <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/3a21bf26bedef7966fd74.jpg">
+    <h1 align="center">ALPHA-BUG</h1>
   </a>
 </p>
+<p align="center">
+<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge/berabotsmd-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+255616030473"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
-
-HOW TO REACH THE OWNER? 
- 
    
-   <a href="https://wa.me/254740007567">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   <a
+   
 
-    ## Ask any thing
+ALPHA BUG BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
-</p>
+If you clone my repo or use as base bot, dont forget to give credits. BRUCE BERA
+### 1. FORK THIS REPO
 
-## STEPS TO DEPLOY YOUR BOT
-
-
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/betingrich/Lamborghini/fork)
-
-2, TAP ON GET SESSIONS
+<a href='https://github.com/berabotsmd/ALPHA-BUG/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+   
 
 
+ **2.DEPLOYMENT PROCESS**
+### DEPLOY ON PANEL
+IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY 
+    <br>
+    <a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=panel&logoColor=white'/></a>
 
-3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
+
+### DEPLOYMENT ON TERMUX
+
+**Go to your termux and input this commands**
+
+## TERMUX DEPLOYMENT 
+
+atp update
+   
+
+apt upgrade
+
+pkg update && pkg upgrade
+
+pkg install bash
+
+pkg install git
+
+pkg install nodejs
+
+pkg install ffmpeg
+
+pkg install wget
+
+pkg install imagemagick
+
+pkg install yarn
+
+termux-setup-storage
+
+git clone https://github.com/berabotsmd/ALPHA-BUG 
+
+cd ALPHA-BUG
+  
+yarn install
+ 
+npm start
 
 
 
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU...
 
-</p>
 
-*𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐎𝐖𝐍𝐄𝐑*
+If you see any question while upgrading with this options with Y for yes or N for no = Click yes or y
 
-<table>
-  <tr>
-    <td>𝑴𝒂𝒓𝒊𝒔𝒆𝒍</td>
-    <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
-  </tr>
-  <tr>
-    <td><a href="https://wa.me/254740007567?"><img src="https://telegra.ph/file/95d912545ccc1f9022741.jpg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x"><img src="https://telegra.ph/file/926279932ae313412a5d5.jpg" width="180"</td>
-  </tr>
-</table>
+If you see any question while upgrading with this options with Y or n for default, = Click n for Default
 
-</p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+`Please ALPHA-BUG  is for scammers only. Don't use it to harm innocent people`
+
+
 ## Contributions
 
+Contributions to ALPHA-BUG BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
-Contributions to 𝐓𝐄𝐒𝐋𝐀 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-## THANKS TO [GOD]
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   thanks to these people ;
+
+   **Xeon** who made the base bot
+
+   **BRUCE BERA** For developing it; <br>
+
+
 ## License
 
-The 𝐓𝐄𝐒𝐋𝐀 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot ALPHA BUG BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *𝐓𝐄𝐒𝐋𝐀*  to enhance your Whatsapp more enjoyable
-☣𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐓𝐄𝐒𝐋𝐀
-.
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and make your WhatsApp experience more interesting!
+
+## Developers:
+
+-BRUCE BERA
