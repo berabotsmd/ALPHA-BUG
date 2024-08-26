@@ -14,7 +14,7 @@ global.botname = '🄰🄻🄿🄷🄰-🄱🅄🄶' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🄰🄻🄿🄷🄰-🄱🅄🄶👑\n\nContact: +263717750825'
+global.author = '🄰🄻🄿🄷🄰-🄱🅄🄶👑\n\nContact: +254743982206'
 
 //console view/theme
 global.themeemoji = '🪀'
